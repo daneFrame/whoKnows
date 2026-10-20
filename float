@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    
+    // TODO: Write your code here
+    // 1. Declare and initialize the variables
+    int value = 75;
+    float price = 19.99;
+    // 2. Declare the pointers
+    // 3. Assign addresses to pointers
+    // 4. Print the dereferenced values
+    
+    return 0;
+}
